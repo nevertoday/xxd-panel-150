@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 150"
+  short_description: "Retro Modern Cut-paper"
+  default_prompt: "Use $xxd-panel-150 to transform my photograph using the complete canonical source brief."
