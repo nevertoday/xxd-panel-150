@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-150
-description: "Create XXD Panel 150 raster artwork from photographs using mid-century modern cut-paper collage and folk-art simplification, flat complete contours, paper overlap, print grain, 2–4 bright warm colours and a small focal subject with vast whitespace. Use when the user invokes xxd-panel-150 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 150｜Retro Modern Cut-paper: rebuilds the key subject of a photo as a mid-century modern cut-paper collage, with complete silhouettes, large sheets of coloured paper, organic and geometric shapes, a little layering and positive–negative play, flattened perspective and volume, hand-cut edges, paper grain, rough print and slight misregistration, in a limited palette of 2–4 clean, warm colours from the photo, as a small focal point in whitespace clearly larger than the image, with a few words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-150 or asks for mid-century modern, cut-paper collage, folk-art paper shapes or retro modernist illustration from a photo."
 ---
 
 # XXD Panel 150

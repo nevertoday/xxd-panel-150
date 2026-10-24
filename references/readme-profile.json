@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 150｜Retro Modern Cut-paper: rebuilds the key subject of a photo as a mid-century modern cut-paper collage, with complete silhouettes, large sheets of coloured paper, organic and geometric shapes, a little layering and positive–negative play, flattened perspective and volume, hand-cut edges, paper grain, rough print and slight misregistration, in a limited palette of 2–4 clean, warm colours from the photo, as a small focal point in whitespace clearly larger than the image, with a few words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-150 or asks for mid-century modern, cut-paper collage, folk-art paper shapes or retro modernist illustration from a photo.",
+  "short_description": "复古现代剪纸志：用几张彩纸剪出的剪影和几何有机形，把照片做成中世纪现代风剪纸画",
+  "zh-CN": {
+    "name": "复古现代剪纸志",
+    "tagline": "用几张彩纸剪出的剪影和几何、有机形，把照片做成一幅中世纪现代风的剪纸小画。",
+    "look": "主体被剪成完整的剪影，用大块彩纸、有机和几何的色块拼出来，少量叠贴，正负形互相咬合。透视、体积和写实细节都被弱化，强调平面的纸片和装饰性的节奏。色块边缘留着手工剪切的痕迹，看得到纸张颗粒、粗粝印刷和轻微套色误差，带一点民艺和中世纪现代插画的味道。颜色从照片取 2–4 种，整理成鲜明温暖的有限色盘，主次面积清楚。图形面积克制，留白明显大于实体，配几个字词或短句，语种不限。",
+    "traits": [
+      "复古现代剪纸",
+      "几何纸片与有机边缘",
+      "简化形体",
+      "有限色盘",
+      "微小视觉核心与留白"
+    ],
+    "good": [
+      "剪影清楚、形状好看的主体：一只鸟、一棵树、一把吉他、一只猫",
+      "可以概括成几个形状的场景：一扇窗和一盆花、帆船与太阳、山与月亮",
+      "想做成复古海报、唱片封面、童书或家居装饰画的照片"
+    ],
+    "poor": [
+      "需要透视准确、细节丰富的建筑、机械或街景",
+      "必须保留人物五官和表情的人像",
+      "想要写实插画、光滑矢量、荧光色或 3D 效果"
+    ]
+  },
+  "en": {
+    "name": "Retro Modern Cut-paper",
+    "tagline": "Cuts your photo into silhouettes and geometric and organic shapes of coloured paper, like a small mid-century modern collage.",
+    "look": "The subject is cut as a complete silhouette and pieced together from large sheets of coloured paper and organic and geometric shapes, with a little layering and positive and negative shapes locking together. Perspective, volume and realistic detail are flattened in favour of flat paper pieces and decorative rhythm. Edges keep the marks of hand-cutting, with paper grain, rough printing and slight misregistration, giving a hint of folk art and mid-century modern illustration. Two to four colours from the photo form a bright, warm limited palette with clear main and secondary areas. The shapes stay restrained, the empty space is clearly larger than the image, and a few words or a short line can be added in any language.",
+    "traits": [
+      "Retro modern cut-paper",
+      "Geometric pieces, organic edges",
+      "Simplified forms",
+      "Limited palette",
+      "Tiny focal point, ample whitespace"
+    ],
+    "good": [
+      "Subjects with a clear, attractive silhouette: a bird, a tree, a guitar, a cat",
+      "Scenes that reduce to a few shapes: a window and a pot of flowers, a sailboat and the sun, a mountain and the moon",
+      "Photos for a retro poster, album cover, children's book or home decor print"
+    ],
+    "poor": [
+      "Buildings, machines or streets that need accurate perspective and rich detail",
+      "Portraits that must keep facial features and expressions",
+      "Requests for realistic illustration, slick vector, neon colours or 3D"
+    ]
+  },
+  "ja": {
+    "name": "レトロモダン切り紙",
+    "tagline": "色紙で切り出したシルエットと幾何・有機の形で、写真をミッドセンチュリーモダンの小さな切り紙にします。",
+    "look": "主役は途切れのないシルエットとして切り出され、大きな色紙と有機的・幾何的な色面で組み立てられ、少しだけ重ね貼りして図と地がかみ合います。遠近、立体感、写実的な細部は抑え、平らな紙片と装飾的なリズムを大切にします。色面の縁には手で切った跡が残り、紙の粒子、ざらついた刷り、わずかな版ずれが見え、民芸やミッドセンチュリーモダンのイラストの味わいがあります。色は写真から 2〜4 色を取って、鮮やかで温かい限られたパレットにし、主役の色と脇の色の面積をはっきり分けます。形の面積は控えめで、余白は図よりはっきり大きく、単語か短い一言を添えます。言語は自由です。",
+    "traits": [
+      "レトロモダンの切り紙",
+      "幾何の紙片と有機的な縁",
+      "簡略化した形",
+      "限られたパレット",
+      "小さな焦点と余白"
+    ],
+    "good": [
+      "シルエットがはっきりして形の美しい主役：鳥、一本の木、ギター、猫",
+      "いくつかの形にまとめられる場面：窓と鉢植え、帆船と太陽、山と月",
+      "レトロなポスター、レコードジャケット、絵本、インテリアの絵にしたい写真"
+    ],
+    "poor": [
+      "正確な遠近や豊かな細部が必要な建物、機械、街並み",
+      "顔立ちや表情を残す必要がある人物写真",
+      "写実的なイラスト、つるっとしたベクター、蛍光色、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "레트로 모던 페이퍼 컷",
+    "tagline": "색종이로 오린 실루엣과 기하·유기적 형태로 사진을 미드센추리 모던풍의 작은 종이 오리기 그림으로 만듭니다.",
+    "look": "주인공은 온전한 실루엣으로 오려지고, 큰 색종이와 유기적·기하적 색면으로 조립되며, 조금씩 겹쳐 붙여 양각과 음각이 서로 맞물립니다. 원근, 입체감, 사실적인 세부는 줄이고 평평한 종잇조각과 장식적인 리듬을 살립니다. 색면 가장자리에는 손으로 자른 흔적이 남고 종이 결, 거친 인쇄, 살짝 어긋난 색이 보여 민예와 미드센추리 모던 일러스트의 맛이 납니다. 색은 사진에서 2~4가지를 골라 선명하고 따뜻한 제한 팔레트로 정리하고 주색과 보조색의 면적을 분명히 나눕니다. 형태의 면적은 절제되고 여백은 그림보다 분명히 넓으며, 단어나 짧은 문장을 언어 제한 없이 곁들입니다.",
+    "traits": [
+      "레트로 모던 페이퍼 컷",
+      "기하 종잇조각과 유기적 가장자리",
+      "단순화한 형태",
+      "제한된 팔레트",
+      "작은 초점과 여백"
+    ],
+    "good": [
+      "실루엣이 분명하고 모양이 예쁜 주인공: 새, 나무 한 그루, 기타, 고양이",
+      "몇 가지 형태로 정리되는 장면: 창문과 화분, 돛단배와 해, 산과 달",
+      "레트로 포스터, 앨범 커버, 그림책, 인테리어 그림으로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "정확한 원근과 풍부한 세부가 필요한 건물, 기계, 거리 풍경",
+      "이목구비와 표정을 살려야 하는 인물 사진",
+      "사실적인 일러스트, 매끈한 벡터, 형광색, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "قصاصات ورقية رجعية حديثة",
+    "tagline": "يقصّ صورتك إلى ظلال وأشكال هندسية وعضوية من الورق الملوّن، ككولاج صغير بروح الحداثة في منتصف القرن.",
+    "look": "يُقصّ العنصر ظلاً كاملاً ويُركَّب من أوراق ملوّنة كبيرة وأشكال عضوية وهندسية، مع قليل من التراكب وتشابك الشكل والفراغ. يُسطَّح المنظور والحجم والتفاصيل الواقعية لصالح قطع ورق مسطّحة وإيقاع زخرفي. تحتفظ الحواف بأثر القص اليدوي، مع حبيبات الورق وخشونة الطباعة وانزياح خفيف في الألوان، وفيها لمحة من الفن الشعبي ورسوم الحداثة في منتصف القرن العشرين. تُؤخذ من الصورة اثنان إلى أربعة ألوان تشكّل لوحة محدودة زاهية دافئة بمساحات رئيسية وثانوية واضحة. تبقى الأشكال مقتصدة والفراغ أكبر بوضوح من الصورة، ويمكن إضافة كلمات قليلة أو سطر قصير بأي لغة.",
+    "traits": [
+      "قصاصات ورقية رجعية حديثة",
+      "قطع هندسية وحواف عضوية",
+      "أشكال مبسّطة",
+      "لوحة ألوان محدودة",
+      "نقطة تركيز صغيرة وفراغ وافر"
+    ],
+    "good": [
+      "عناصر بظلّ واضح جميل: طائر، شجرة، غيتار، قطة",
+      "مشاهد تُختصر في بضعة أشكال: نافذة وأصيص زهور، مركب شراعي وشمس، جبل وقمر",
+      "صور لملصق رجعي أو غلاف ألبوم أو كتاب أطفال أو لوحة لتزيين البيت"
+    ],
+    "poor": [
+      "مبانٍ أو آلات أو شوارع تحتاج إلى منظور دقيق وتفاصيل غنية",
+      "صور شخصية يجب أن تحتفظ بالملامح والتعابير",
+      "طلب رسم واقعي أو رسوم متجهية ملساء أو ألوان فسفورية أو ثلاثية الأبعاد"
+    ]
+  }
+}

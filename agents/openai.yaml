@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 150"
-  short_description: "Retro Modern Cut-paper"
-  default_prompt: "Use $xxd-panel-150 to transform my photograph using the complete canonical source brief."
+  short_description: "复古现代剪纸志：用几张彩纸剪出的剪影和几何有机形，把照片做成中世纪现代风剪纸画"
+  default_prompt: "Use $xxd-panel-150 to turn my photo into Retro Modern Cut-paper artwork."
